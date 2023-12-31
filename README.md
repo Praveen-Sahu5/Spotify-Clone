@@ -1,1 +1,1 @@
-# Spotify-Clone
+🎵 Just launched my own Spotify clone using HTML & CSS! 🚀 Replicated key features, faced challenges, and learned a ton. Excited to dive into more frontend adventures! 💻🔍 #HTML #CSS #WebDev #SideProject
